@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessLogic/BusinessLogic.csproj" Id="c4d9e417-2dd2-4b48-8abe-081f3c2f206d" />
+  <Project Path="DataHandler/DataHandler.csproj" Id="5c681a13-51ef-4782-829f-46652ab13389" />
+  <Project Path="Domain/Domain.csproj" Id="ea43b6e2-6f35-4be6-b60a-9a6e0db3eed4" />
+  <Project Path="TuNominaYa/TuNominaYa.csproj" />
+</Solution>
